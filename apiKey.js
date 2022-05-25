@@ -1,4 +1,4 @@
-const apiKey = "1y2xOpf3hDMqDNOt9scf7PxNL5qPNetylJ8jioo0A";
+const apiKey = "1nfIGq7bzdxIosErfmuvOgsvFxOl5i4jxCEMftNmc";
 const appId = "type your own appId such as com.example.ricmac.mymicroverse";
 export default {apiKey, appId};
 
